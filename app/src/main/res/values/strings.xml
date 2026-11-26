@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="pelicula">Película</string>
+    <string name="detalle_descripcion">Descripción: %1$s</string>
+    <string name="detalle_fecha">Año: %1$d</string>
+    <string name="detalle_duracion">Duración: %1$d minutos</string>
+    <string name="detalle_produccion">Nacionalidad: %1$s</string>
+    <string name="recargar">Recargar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="eliminar_todas_peliculas">Eliminar todas las películas</string>
+    <string name="confirmar_eliminar_todas">¿Estás seguro de que quieres eliminar la lista completa?</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="lista_eliminada">Se ha eliminado la lista completa</string>
+    <string name="accion_editar">Editar</string>
+    <string name="accion_eliminar">Eliminar</string>
+    <string name="eliminar_pelicula">Eliminar %1$s</string>
+    <string name="confirmar_eliminar_pelicula">¿Estás seguro de que quieres eliminar %1$s?</string>
+    <string name="titulo_pelicula">Título de la película</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="titulo_vacio">El título no puede estar vacío</string>
+</resources>
